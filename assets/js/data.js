@@ -1,8 +1,4 @@
-/* =====================================================================
-   YOUR CONTENT LIVES HERE.
-   Edit the text inside the quotes. Keep the quotes, commas and brackets.
-   Save, then refresh the browser to see changes.
-   ===================================================================== */
+
 
 window.SITE = {
 
@@ -18,7 +14,7 @@ window.SITE = {
     evening:   "Gooood evening, world!"
   },
 
-  // Typed out once under your name
+  // Typed out once under name
   typingPrefix: "Exploring",
   typingLine: "Bioinformatics · Computational Biology · Biomedical Imaging & Signals · Machine Learning for Health",
 
@@ -31,7 +27,7 @@ window.SITE = {
     { icon: "microscope", text: "Open to research collaborations" }
   ],
 
-  // Photo: put your photo at images/profile.jpg
+  // Photo: put photo at images/profile.jpg
   photo: "images/profile.jpg",
 
   // CV: built automatically from the LaTeX in github.com/rozakter18/cv (always the latest version).
@@ -56,7 +52,7 @@ window.SITE = {
     { icon: "binary-tree",        title: "Sequence Models in Genomics",               keywords: "" }
   ],
 
-  // Home: "Currently Working On" cards. Add a third by copying one block.
+  // Home: "Currently Working On" cards. 
   currentWork: [
     {
       title: "Multimodal Deep Learning for Alzheimer's & Parkinson's",
